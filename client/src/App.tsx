@@ -1,5 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +5,10 @@ function App() {
     <div className="App">
       <h1>chat</h1>
       <div id="chat">
-        <p>hej</p>
+        <div className="person">
+          <p>hej</p>
+          <p>hej</p>
+        </div>
       </div>
     </div>
   );

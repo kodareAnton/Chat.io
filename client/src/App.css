@@ -15,6 +15,15 @@ h1 {
 }
 
 #chat {
+  margin: 10%;
   color: aliceblue;
-  background-color: blue;
+  background-color: rgb(247, 247, 247);
+  border-radius: 10px;
+  height: 70vh;
+}
+
+.person p {
+  margin: 0px;
+  color: black;
+  background-color: rgb(53, 190, 18);
 }
