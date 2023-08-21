@@ -7,6 +7,4 @@ router.get('/', function(req, res, next) {
   res.send('Hej Hej du är connectad');
 });
 
-
-
 module.exports = router;
